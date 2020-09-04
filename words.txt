@@ -1,0 +1,13 @@
+iron
+copper
+gold
+silver
+lead
+zinc
+tin
+magnesium
+mercury
+nickel
+platinum
+manganese
+cobalt
